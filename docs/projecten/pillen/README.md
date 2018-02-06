@@ -5,7 +5,7 @@
 + **Hogeschool Arnhem en Nijmegen** - Partner
 
 ## Projectbeschrijving
-#### Één van de beloftes van Smart Industry is de flexibilisering van productie. Quick Response Manufacturing (QRM) is een vorm hiervan. Pillen een studie laten uitvoeren door studentonderzoekers van MSI. De resultaten waren voldoende overtuigend om een pilot te overwegen.
+#### Één van de beloftes van Smart Industry is de flexibilisering van productie. Quick Response Manufacturing (QRM) is een vorm hiervan. Pillen Group heeft recentelijk een studie laten uitvoeren door studentonderzoekers van MSI. De resultaten waren voldoende overtuigend om een pilot te overwegen.
 
 Een team van twee MSI-onderzoekers gaat deze pilot voorbereiden en de uitvoering begeleiden. Pillen heeft een productgroep geselecteerd waarmee het beste een start kan worden gemaakt en kan worden getest. Het gehele waardeproces van klantorder tot uitlevering zal worden doorgelicht en gemodelleerd. In overleg zal besloten worden welke QRM-elementen op korte termijn kunnen worden gerealiseerd. 
 
