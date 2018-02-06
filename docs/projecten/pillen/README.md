@@ -22,5 +22,5 @@ Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een ove
 ## Inspiratie
 + [Auping Smart Industry](https://youtu.be/BWgZXhm3WYM)
 + [Center for Quick Response Manufacturing](https://qrm.engr.wisc.edu/)
-+ [Vooronderzoek QRM Pillen](https://github.com/minorsmart/sep2017/tree/master/docs/projecten/pillen)
++ [Vooronderzoek QRM Pillen](https://minorsmart.github.io/sep2017/docs/projecten/pillen/site/index.html)
 
