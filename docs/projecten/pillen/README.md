@@ -9,8 +9,8 @@
 
 Een team van twee MSI-onderzoekers gaat deze pilot voorbereiden en de uitvoering begeleiden. Pillen heeft een productgroep geselecteerd waarmee het beste een start kan worden gemaakt en kan worden getest. Het gehele waardeproces van klantorder tot uitlevering zal worden doorgelicht en gemodelleerd. In overleg zal besloten worden welke QRM-elementen op korte termijn kunnen worden gerealiseerd. 
 
-+ Fase 1 - Vorming van theoretisch kader, onderzoeksvragen / -methodieken (empirie en advies) en planning fase 2
-+ Fase 2 - Modellering en testen QRM-traject.
++ Fase 1 - Voorbereiding en modellering QRM-traject
++ Fase 2 - Uitvoering test en evaluatie
 
 Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met een presentatie en demonstratie tijdens de Smart Industry Seminar medio 2018.
 
