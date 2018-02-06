@@ -5,14 +5,14 @@
 + **Hogeschool Arnhem en Nijmegen** - Partner
 
 ## Projectbeschrijving
-#### Één van de beloftes van Smart Industry is de flexibilisering van productie. Quick Response Manufacturing (QRM) is een vorm hiervan en Pillen wil onderzoeken of hiermee optimalisaties te behalen zijn voor de eigen productie-omgeving.
+#### Één van de beloftes van Smart Industry is de flexibilisering van productie. Quick Response Manufacturing (QRM) is een vorm hiervan. Pillen een een studie laten uitvoeren door studentonderzoekers van MSI. De resultaten waren voldoende overtuigend om een pilot te overwegen.
 
-Een team van twee studenten van de Minor Smart Industry gaat dit onderzoek uitvoeren en een advies geven over de invoering van QRM bij de opdrachtgever. Het project zal bestaan uit twee fases van ieder zes weken:
+Een team van twee MSI-onderzoekers gaat deze pilot voorbereiden en de uitvoering begeleiden. Pillen heeft een productgroep geselecteerd waarmee het beste een start kan worden gemaakt en kan worden getest. Het gehele waardeproces van klantorder tot uitlevering zal worden doorgelicht en gemodelleerd. In overleg zal besloten worden welke QRM-elementen op korte termijn kunnen worden gerealiseerd. 
 
 + Fase 1 - Vorming van theoretisch kader, onderzoeksvragen / -methodieken (empirie en advies) en planning fase 2
-+ Fase 2 - Beantwoorden onderzoeksvragen en presentatie uitkomsten.
++ Fase 2 - Modellering en testen QRM-traject.
 
-Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met een white paper en een presentatie tijdens de Smart Industry Seminar primo 2018.
+Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een overlegstructuur. Via een (web-based) informatiesysteem kunnen alle stakeholders bij voor hun relevante informatie. Het project wordt afgerond met een presentatie en demonstratie tijdens de Smart Industry Seminar medio 2018.
 
 ## Contactpersonen
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
@@ -22,6 +22,5 @@ Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een ove
 ## Inspiratie
 + [Auping Smart Industry](https://youtu.be/BWgZXhm3WYM)
 + [Center for Quick Response Manufacturing](https://qrm.engr.wisc.edu/)
-
-
++ [Vooronderzoek QRM Pillen](https://github.com/minorsmart/sep2017/tree/master/docs/projecten/pillen)
 
