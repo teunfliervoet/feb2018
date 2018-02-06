@@ -1,4 +1,4 @@
-# QRM Feasibility Study
+# QRM pilot
 
 ## Projecteigenaren en partners
 + **Pillen Group** - Projecteigenaar
