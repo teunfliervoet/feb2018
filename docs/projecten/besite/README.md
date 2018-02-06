@@ -17,6 +17,6 @@ Besite helpt klanten hun processen omtrent online sales en marketing te automati
 + [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business / [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
   
 ## Inspiratie
-[Playlist Google Adwords](https://www.youtube.com/playlist?list=PL9piTIvKJnJPB729hcZYSEXCsQFyeJV44)
-[Free Code Camp](https://www.freecodecamp.org/)
-[How to code PHP](https://youtu.be/qVU3V0A05k8)
++ [Playlist Google Adwords](https://www.youtube.com/playlist?list=PL9piTIvKJnJPB729hcZYSEXCsQFyeJV44)
++ [Free Code Camp](https://www.freecodecamp.org/)
++ [How to code PHP](https://youtu.be/qVU3V0A05k8)
