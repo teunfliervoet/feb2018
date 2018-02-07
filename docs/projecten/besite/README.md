@@ -5,15 +5,18 @@
 + **Hogeschool Arnhem en Nijmegen** - Partner
 
 ## Projectbeschrijving
-BeSite is dé internetspecialist uit de Achterhoek die ondernemingen helpt meer resultaat te boeken uit hun online activiteiten. Zo leveren ze al een geruime tijd projecten op die een relatie hebben met het internet (waaronder maakbedrijven). Met een team van specialisten wordt er dagelijks gewerkt aan internetprojecten voor diverse mooie opdrachtgevers. Voorbeelden van projecten zijn webshops, ERP-geïntegreerde websites en park webshops. Bij deze producten zijn privégegevens betrokken die veilig verwerkt en opgeslagen dienen te worden.
+BeSite is dé internetspecialist uit de Achterhoek die bedrijven helpt naar meer online resultaat. BeSite bedenkt online strategieën en vernieuwende concepten. Daarnaast bouwen ze sites, shops, apps, applicaties en online marketing campagnes om online meer resultaat te behalen. Dit doen ze in 3 branches: Smart Industry, Smart Parking en Smart Mobility. Je leest het al; 3 keer Smart. 
 
-Één van de diensten die Besite aanbiedt, betreft het automatiseren van processen omtrent online sales en marketing. In dit kader gaat Besite samen met studentonderzoekers van de Minor Smart Industry (MSI) op zoek naar mogelijkheden om biedingen in Google Adwords doeltreffender te maken, zodat klanten tegen lagere kosten meer resultaat kunnen halen uit hun online marketingcampagnes.
+BeSite wil slim, innovatief en vernieuwend zijn. Met behulp van online techniek de processen voor onze klanten slimmer inrichten. Dit doen we onder andere door het automatiseren van marketing en sales activiteiten. Eén van de diensten die BeSite levert is het inrichten en optimaliseren van betaalde advertentiecampagnes via Google AdWords. Ook dit willen we nóg slimmer doen.
+
+Samen met studentonderzoekers van de Minor Smart Industry (MSI) wil BeSite op zoek naar mogelijkheden om biedingen in Google Adwords te automatiseren en doeltreffender te maken, zodat klanten tegen lagere kosten meer resultaat kunnen halen uit hun online marketingcampagnes. 
 
 
 ## Contactpersonen
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator / [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
-+ [<<NAAM>>](https://www.besite.nl/) - <<ROL>> / [BeSite](https://www.besite.nl/)
-+ [<<NAAM>>](https://www.besite.nl/) - <<ROL>> / [BeSite](https://www.besite.nl/)
++ [Dion Penterman](https://www.besite.nl/) - Online Marketing Specialist / [BeSite](https://www.besite.nl/)
++ [Peter Smit](https://www.besite.nl/) - Online Marketing Specialist / [BeSite](https://www.besite.nl/)
++ [Marco van Ree](https://www.besite.nl/) - Technisch Specialist / [BeSite](https://www.besite.nl/)
 + [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business / [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
   
 ## Inspiratie
