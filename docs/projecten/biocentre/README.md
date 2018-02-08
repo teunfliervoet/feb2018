@@ -7,7 +7,7 @@
 ## Projectbeschrijving
 #### Bij het HAN BioCentre (waaronder het HAN-lectoraat Biodiscovery) in Nijmegen verrichten onderzoekers en studenten praktijkgericht onderzoek binnen de hele Biodiscovery-keten: van het ontdekken, analyseren en produceren tot toepassen van (nieuwe) biomoleculen. Denk bijvoorbeeld aan nieuwe enzymen, bioactive peptiden, anti-microbiële componenten maar ook secundaire plant-metabolieten. Deze vinden hun toepassing in de agro-, food/feed- of life sciences-sectoren of in de biobased economy.
 
-/// Projectbeschrijving ////
+[Projectbeschrijving](https://github.com/minorsmart/feb2018/blob/master/docs/projecten/biocentre/180115%20SIM_project_Smart_Elegant_v01_JV.docx)
 
 
 ## Contactpersonen
