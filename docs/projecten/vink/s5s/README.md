@@ -24,4 +24,4 @@ Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een ove
 + [5S Methode](https://en.wikipedia.org/wiki/5S_(methodology))
 + [Industry 4.0 and Lean](http://www.jiem.org/index.php/jiem/article/download/1940/780)
 + [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/index.html)
-+ [S5S - Hesterman / Verstraaten](https://bkmoodle.femplaza.nl/pluginfile.php/13484/mod_wiki/attachments/37//Onderzoeksverslag%20S5S%20Vink%20versie%202.2%20Femke%20en%20Jelle%2C%2022-01-2018%20definitief.pdf?forcedownload=1)
++ S5S - Hesterman / Verstraaten (op aanvraag)
