@@ -2,6 +2,7 @@
 
 ## Projecteigenaren en partners
 + **Vink Techniek** - Projecteigenaar
++ **Hogeschool Arnhem en Nijmegen** - Partner
 
 ## Projectbeschrijving
 #### Vink Techniek bewerkt al meer dan veertig jaar kunststof halffabrikaten. Met de ervaring, kennis en uitgebreide productiefaciliteiten behoort het tot de toonaanfevende kunststofbewerkers van Nedereland. De industrie en dan met name de machinebouw behoren samen met de bouw- en reclamesector tot de belangrijkste marktgebieden. Vink Techniek maakt ook kunstof onderdelen voor apparatenbouwers.
