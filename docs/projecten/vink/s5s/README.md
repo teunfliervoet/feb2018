@@ -1,6 +1,6 @@
 # Smart 5S (S5S)
 
-<img src="https://witusj.github.io/MinorSI/images/smind.png" width=400>
+<img src="https://witusj.github.io/MinorSI/images/smind.png" width=600>
 
 ## Projecteigenaren en partners
 + **Vink Techniek** - Projecteigenaar
