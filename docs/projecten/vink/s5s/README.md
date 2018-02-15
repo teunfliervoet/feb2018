@@ -1,6 +1,6 @@
 # Smart 5S (S5S)
 
-![Smart Industry](http://www.vno-ncwmidden.nl/Diverse/smart%20ind.jpg)
+![Smart Industry](https://witusj.github.io/MinorSI/images/smind.png)
 
 ## Projecteigenaren en partners
 + **Vink Techniek** - Projecteigenaar
@@ -17,8 +17,9 @@ Het hele traject van onderzoek en ontwikkeling voorziet in milestones en een ove
 
 
 ## Contactpersonen
-+ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) 
-+ [Paul Hendriks](https://www.linkedin.com/in/paul-hendriks-0b004a83/) - Front Office Coördinator [Vink Techniek](http://www.vinktechniek.nl/)
++ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach**
++ [Paul Hendriks](https://www.linkedin.com/in/paul-hendriks-0b004a83/) - Front Office Coördinator [Vink Techniek](http://www.vinktechniek.nl/) - **Projecteigenaar**
++ [Wilco van Schriek](linkedin.com/in/wilco-van-schriek-1182a027) - Vestigingsmanager [Vink Techniek](http://www.vinktechniek.nl/) - **Sponsor** 
 
 ## Inspiratie
 + [5S Methode](https://en.wikipedia.org/wiki/5S_(methodology))
