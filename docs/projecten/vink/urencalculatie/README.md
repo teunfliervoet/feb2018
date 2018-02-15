@@ -14,8 +14,9 @@ De opdracht betreft het opvolgen van voorgaand onderzoeken en daadwerkelijk impl
 
 
 ## Contactpersonen
-+ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach** 
-+ [Wilco van Schriek](linkedin.com/in/wilco-van-schriek-1182a027) - Manager Front Office [Vink Techniek](http://www.vinktechniek.nl/)
++ [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Coördinator [HAN Minor Smart Industry](https://witusj.github.io/MinorSI/) - **Projectcoach**
++ [Paul Hendriks](https://www.linkedin.com/in/paul-hendriks-0b004a83/) - Front Office Coördinator [Vink Techniek](http://www.vinktechniek.nl/) - **Projecteigenaar**
++ [Wilco van Schriek](linkedin.com/in/wilco-van-schriek-1182a027) - Vestigingsmanager [Vink Techniek](http://www.vinktechniek.nl/) - **Sponsor** 
 
 ## Inspiratie
 + [Customer Journey](https://drive.google.com/file/d/0B63Xv-VjVpxSbzRuNHZwUlVvbjA/view?usp=sharing)
