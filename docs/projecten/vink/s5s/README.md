@@ -1,6 +1,7 @@
 # Smart 5S (S5S)
 
 ![Smart Industry](https://witusj.github.io/MinorSI/images/smind.png)
+<img src="https://witusj.github.io/MinorSI/images/smind.png">
 
 ## Projecteigenaren en partners
 + **Vink Techniek** - Projecteigenaar
