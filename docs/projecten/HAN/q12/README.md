@@ -18,6 +18,8 @@ work?
 7. At work, do your opinions seem to count?
 8. Does the mission/purpose of your company make you feel your job is important?
 9. Are your associates (fellow employees) committed to doing quality work?
-10.Do you have a best friend at work?
-11.In the last six months, has someone at work talked to you about your progress?
-12.In the last year, have you had opportunities to learn and grow?
+10. Do you have a best friend at work?
+11. In the last six months, has someone at work talked to you about your progress?
+12. In the last year, have you had opportunities to learn and grow?
+
+Source: [Gallup](http://www.gallup.com/products/170969/q12-employee-engagement-center.aspx)
