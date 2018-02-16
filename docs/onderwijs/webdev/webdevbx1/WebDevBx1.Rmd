@@ -18,8 +18,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Leerdoelen
 <hr>
 - Je kent de structuur van een webpagina
-- Je weet hoe HTML en CSS zich tot elkaar verhouden
 - Je kunt een aantrekkelijke webpagina bouwen met HTML en CSS
+- Je kunt een website online plaatsen
 
 <br>
 <hr>
