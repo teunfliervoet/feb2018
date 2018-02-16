@@ -81,7 +81,7 @@ Zie [MSI Wiki](https://bkmoodle.femplaza.nl/mod/wiki/view.php?pageid=227) voor n
 4. Voeg een formulier toe (bijv. Google Forms)
 
 ## Hosten op Github
-
+<hr>
 **Opdracht:** plaats je site op Github en gebruik deze voor je pitch.
 
 
