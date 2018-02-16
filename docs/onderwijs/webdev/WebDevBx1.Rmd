@@ -82,7 +82,7 @@ Zie [MSI Wiki](https://bkmoodle.femplaza.nl/mod/wiki/view.php?pageid=227) voor n
 
 ## Hosten op Github
 <hr>
-**Opdracht:** plaats je site op Github en gebruik deze voor je pitch.
+**Opdracht:** plaats je site op Github en laat deze beoordelen door anderen (zie opdracht [Training Web Dev Basics 1](https://bkmoodle.femplaza.nl/mod/workshop/view.php?id=7107)).
 
 
 
