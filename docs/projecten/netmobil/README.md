@@ -17,5 +17,5 @@ Het systeem wordt getest en geëvalueerd binnen twee pilots waarvoor de regio Ac
 
 ## Contactpersonen
 + [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business / [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
-+ [Renee van Os[(https://www.han.nl/onderzoek/mensen/renee-van-os/)] – Associate Lector Online Interactie / [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
++ [Renee van Os](https://www.han.nl/onderzoek/mensen/renee-van-os/) – Associate Lector Online Interactie / [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
 + [Gideon Visser](https://www.linkedin.com/in/gideonvisser/) – Projectleider Netmobil / [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
