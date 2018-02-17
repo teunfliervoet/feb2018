@@ -69,12 +69,9 @@ Zie [MSI Wiki](https://bkmoodle.femplaza.nl/mod/wiki/view.php?pageid=227) voor n
 **Opdracht:**
 
 1. Voeg een [hyperlink](#) toe
-2. Voeg een foto toe
+2. Voeg een foto en een video toe
 <div>
-<img src="https://witusj.github.io/MinorSI/images/smind.png" style="width:20%">
-</div>
-3. Voeg een video toe (bijv. Youtube)
-<div>
+<img src="https://witusj.github.io/MinorSI/images/smind.png" style="width:20%"><br>
 <iframe width="210" height="120" src="https://www.youtube.com/embed/bBWrbEUu3nk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
