@@ -42,10 +42,9 @@ Zie [MSI Wiki](https://bkmoodle.femplaza.nl/mod/wiki/view.php?pageid=227) voor n
 </head>
 
 <body>
-
 <p>Tekst</p>
-
 </body>
+
 </html>
 ```
 
