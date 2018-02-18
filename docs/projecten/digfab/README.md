@@ -28,16 +28,8 @@ Het onderwerp van de proefopstelling is een systeem voor de productie van light 
 Het project kan worden uitgevoerd door één of twee teams van ieder twee leden.
 
 ## Contactpersonen
-+ [Maurice Verheesen](https://www.linkedin.com/in/mauriceverheesen/) - Projectcoach
 + [Witek ten Hove](https://www.linkedin.com/in/witektenhove/) - Faculteit Economie en Management
-+ [Jeroen van Elburg](https://www.linkedin.com/in/jeroen-b-van-elburg-b2552620/) - Faculteit Techniek
-+ [Erik Folgering](https://www.linkedin.com/in/efo73/?ppe=1) - Faculteit Techniek
 + [Peter Verschut](linkedin.com/in/peter-verschut-94b6116) - Faculteit Techniek / Automotive
-+ John Holweg - Siemens
-+ Piet van Dongen - Siemens
-+ Max Truijers - HAN ICT
-+ Werner Balduk - HAN ICT
-+ Erik van Gijzen - HAN ICT
 + [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
 
 
