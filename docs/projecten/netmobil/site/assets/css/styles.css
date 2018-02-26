@@ -1,7 +1,7 @@
 html, body{
 	font-size:16px;
 	color: #dfdfdf;
-	background-color: #3b0442; 
+	background-color: #eaefef; 
 }
 
 a {
@@ -18,19 +18,19 @@ section{
 }
 
 .section-1 {
-	background: #063647;
+	background: #eaefef;
 }
 
 .section-2 {
-	background-color: #052D3D;
+	background-color: #eaefef;
 }
 
 .section-3 {
-	background-color: #0E282E;
+	background-color: #eaefef;
 }
 
 .section-4 {
-	background-color: #063647;
+	background-color: #eaefef;
 	padding: 0.2rem;
 }
 
@@ -90,7 +90,7 @@ a.nav-item:hover {
 
 @media screen and (max-width: 768px) {
 	.nav-menu {
-		background-color: #063647;
+		background-color: #eaefef;
 	}
 
 	.nav-toggle:hover {
