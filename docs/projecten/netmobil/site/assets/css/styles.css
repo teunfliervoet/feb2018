@@ -39,7 +39,7 @@ a.nav-item {
 }
 
 a.nav-item:hover {
-	color: #fff;
+	color: #5b5b5b;
 }
 
 .avatar{
@@ -90,7 +90,7 @@ a.nav-item:hover {
 
 @media screen and (max-width: 768px) {
 	.nav-menu {
-		background-color: #eaefef;
+		background-color: #dfdfdf;
 	}
 
 	.nav-toggle:hover {
@@ -102,7 +102,7 @@ a.nav-item:hover {
 	}
 
 	.nav-toggle span:hover {
-		background-color: #fff;
+		background-color: #dfdfdf;
 	}
 
 }
