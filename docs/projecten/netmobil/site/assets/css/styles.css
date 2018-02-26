@@ -5,11 +5,11 @@ html, body{
 }
 
 a {
-  color: #00d1b2;
+  color: #5b5b5b;
 }
 
 a:hover {
-  color: #00d1b2;
+  color: #5b5b5b;
 }
 
 section{
@@ -35,7 +35,7 @@ section{
 }
 
 a.nav-item {
-	color: #dfdfdf;
+	color: #5b5b5b;
 }
 
 a.nav-item:hover {
@@ -73,7 +73,7 @@ a.nav-item:hover {
 }
 
 .title {
-	color: #fff;
+	color: #5b5b5b;
 	text-align: left;
 	margin-bottom: 2rem;
 }
