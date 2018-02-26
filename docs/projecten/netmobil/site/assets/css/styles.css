@@ -85,24 +85,24 @@ a.nav-item:hover {
 }
 
 .void-background {
-	background-color: transparent; 
+	background-color: #c4c4c4; 
 }
 
 @media screen and (max-width: 768px) {
 	.nav-menu {
-		background-color: #dfdfdf;
+		background-color: #eaefef;
 	}
 
 	.nav-toggle:hover {
-		background-color: transparent;
+		background-color: #eaefef;
 	}
 
 	.nav-toggle span {
-		background-color: #dfdfdf;
+		background-color: #eaefef;
 	}
 
 	.nav-toggle span:hover {
-		background-color: #dfdfdf;
+		background-color: #eaefef;
 	}
 
 }
