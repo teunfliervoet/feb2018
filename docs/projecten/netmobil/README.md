@@ -14,6 +14,8 @@ Eén van de vragen waar we mee aan de slag gaan is het verkennen van een verdien
 
 Het systeem wordt getest en geëvalueerd binnen twee pilots waarvoor de regio Achterhoek als living lab dient.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SZXg6JViML0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ## Contactpersonen
 + [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business / [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
