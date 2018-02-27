@@ -14,7 +14,8 @@ Eén van de vragen waar we mee aan de slag gaan is het verkennen van een verdien
 
 Het systeem wordt getest en geëvalueerd binnen twee pilots waarvoor de regio Achterhoek als living lab dient.
 
-## [Inspiratie](https://www.youtube.com/embed/SZXg6JViML0)
+## Inspiratie
+- [Pitch](https://www.youtube.com/embed/SZXg6JViML0)
 
 
 ## Contactpersonen
