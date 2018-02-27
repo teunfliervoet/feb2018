@@ -20,6 +20,7 @@ Samen met studentonderzoekers van de Minor Smart Industry (MSI) wil BeSite op zo
 + [Jan Spruijt](linkedin.com/in/janspruijt) - Academic Program Leader Smart Business / [Hogeschool Arnhem en Nijmegen](https://www.han.nl/)
   
 ## Inspiratie
++ [Pitch](https://vimeo.com/255760540/bdbaf780e6)
 + [Playlist Google Adwords](https://www.youtube.com/playlist?list=PL9piTIvKJnJPB729hcZYSEXCsQFyeJV44)
 + [Free Code Camp](https://www.freecodecamp.org/)
 + [How to code PHP](https://youtu.be/qVU3V0A05k8)
