@@ -1,0 +1,47 @@
+body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif}
+.fa-anchor,.fa-coffee {font-size:200px}
+
+.fill-page {
+    min-height: 100vh;
+}
+.half-page {
+	min-height: 50vh!important;
+	max-height: 50vh!important;
+}
+.even-div {
+	background-color: #373737!important;
+}
+.uneven-div {
+	background-color: #2d2d2d!important;
+}
+body {
+}
+h1, h2, h3, h4 {color: #f9f32c}
+h5 {
+	color: #b7af4d;
+}
+.text {
+	color: white!important;
+}
+.header-button {
+	color: #f9f32c!important;
+	background: #373737!important;
+	border: 1px solid #f9f32c!important;
+}
+.header-text {
+	padding: 5% 25% 10% 25%;
+	text-align: center !important;
+}
+.header-button:hover {
+	background: #373737!important;
+	color: #f9f32c!important;
+	box-shadow: 0 4px 8px 0 #f9f32c, 0 6px 20px 0 #f9f32c!important;
+}
+.nav-bar {
+	background-color: #2d2d2d!important;
+	opacity: 0.70;
+}
+.footer{
+	background-color: #373737!important;
+}
