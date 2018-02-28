@@ -1,0 +1,211 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Ons team</title>
+    <link rel="icon" type="image/png" href="assets/img/favicon.png" />
+	
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+	
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/css/material-dashboard.css?v=1.2.0" rel="stylesheet" />
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+    <link href="http://fonts.googleapis.com/css?family=Roboto:400,700,300|Material+Icons" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="sidebar" data-color="green" data-image="assets/img/sidebar.jpg">
+			<div class="logo">
+                <a class="simple-text">Navigation</a>
+            </div>
+            <div class="sidebar-wrapper">
+                <ul class="nav">
+					<li>
+                        <a href="index.html">
+                            <i class="material-icons">home</i>
+                            <p>Home</p>
+                        </a>
+                    </li>
+                    <li class="active">
+                        <a href="about-us.html">
+                            <i class="material-icons">person</i>
+                            <p>Team</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="project.html">
+                            <i class="material-icons">content_paste</i>
+                            <p>Project</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="contact-us.html">
+                            <i class="material-icons text-gray">library_books</i>
+                            <p>Contact</p>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="main-panel">
+            <nav class="navbar navbar-transparent navbar-absolute">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#">Ons team</a>
+                    </div>
+                    <div class="collapse navbar-collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <a href="index.html" class="dropdown-toggle">
+                                    <i class="material-icons">home</i>
+                                </a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <i class="material-icons">notifications</i>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a style="color:gray">No new notifications.</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a href="about-us.html" class="dropdown-toggle">
+                                    <i class="material-icons">person</i>
+                                </a>
+                            </li>
+                        </ul>
+                        <form class="navbar-form navbar-right" role="search">
+                            <div class="form-group is-empty">
+                                <input type="text" class="form-control" style="float:left;margin-top:-20px" placeholder="Search">
+                                <span class="material-input"></span>
+                            </div>
+							<i class="material-icons" style="padding-top:9px;" onclick="custom.search_error()">search</i>
+                        </form>
+                    </div>
+                </div>
+            </nav>
+            <div class="content">
+                <div class="container-fluid">
+				
+					<!-- Face cards -->
+				
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="card card-profile">
+                                <div class="card-avatar" style="background-color:#191919">
+                                    <a href="#where?">
+                                        <img class="img" src="assets/img/erik.jpg" />
+                                    </a>
+                                </div>
+                                <div class="content">
+                                    <h6 class="category text-gray" style="text-transform:none">info@erikhooijer.nl</h6>
+                                    <h4 class="card-title">Erik Hooijer</h4>
+                                    <p class="card-content">
+                                        Ik ben Erik Hooijer. Ik ben 25 jaar en woon samen met mijn vrouw Dineke in Rhenen. Ik ben bedrijfskundestudent aan de HAN in Nijmegen. Ik heb werkervaring met het bouwen en verbeteren van websites. Ik ben regelmatig online op websites als LinkedIn en Twitter. Verder blijf ik graag op de hoogte van de nieuwste ontwikkelingen op het gebied van technologie. Ik heb een ambiverte persoonlijkheid en pas me graag aan aan de mensen in mijn omgeving. Ik zet mijn technische kennis graag in voor nonprofits en maatschappelijk verantwoorde doelen.
+                                    </p>
+                                    <button onclick="custom.toggle_visibility('hidden-vid-1');" class="btn btn-link" style="background-color:#ffffff;color:#505050;">Video</button>
+									<a href="https://github.com/hooijerik" class="btn btn-link" style="background-color:#ffffff;color:#505050;padding:12px 20px;"><i class="fa fa-github"></i></a>
+									<a href="https://www.linkedin.com/in/erikhooijer/" class="btn btn-link" style="background-color:#ffffff;color:#505050;padding:12px 20px;"><i class="fa fa-linkedin"></i></a>
+									<a href="https://twitter.com/HooijerErik" class="btn btn-link" style="background-color:#ffffff;color:#505050;padding:12px 20px;"><i class="fa fa-twitter"></i></a>
+                                </div>
+								<div id="hidden-vid-1" class="intrinsic-container" style="display:none;">
+									<iframe src="https://www.youtube.com/embed/yMB9IgLwb04" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+								</div>
+                            </div>
+                        </div>
+						<div class="col-md-4">
+                            <div class="card card-profile">
+                                <div class="card-avatar">
+                                    <a href="#where?">
+                                        <img class="img" src="assets/img/hans.jpg" />
+                                    </a>
+                                </div>
+                                <div class="content">
+                                    <h6 class="category text-gray" style="text-transform:none">h.kruysse@gmail.com</h6>
+                                    <h4 class="card-title">Hans Kruijsse</h4>
+                                    <p class="card-content">
+                                        Ik ben Hans Kruijsse. Ik woon in Ede en ben 21 jaar. Op dit moment ben ik bezig aan het laatste jaar van mijn Informatica-studie. Ik heb een brede interesse in technologie; naast software ben ik ook geïnteresseerd in IoT, security, netwerken en dergelijke. Ik houd ervan om uit te zoeken hoe allerlei technische apparaten en technieken werken. Vanuit mijn stage heb ik al enige werkervaring opgedaan, en verder werk ik in mijn vrije tijd aan een aantal eigen open-source projecten. Met deze minor hoop ik op verdieping in the Internet of Things en de economische kant van techniek.
+                                    </p>
+                                    <button onclick="custom.toggle_visibility('hidden-vid-2');" class="btn btn-link" style="background-color:#ffffff;color:#505050;">Video</button>
+									<a href="https://github.com/Hans-K" class="btn btn-link" style="background-color:#ffffff;color:#505050;"><i class="fa fa-github"></i></a>
+									<a href="https://www.linkedin.com/in/hans-kruijsse-b16209142/" class="btn btn-link" style="background-color:#ffffff;color:#505050;"><i class="fa fa-linkedin"></i></a>
+                                </div>
+								<div id="hidden-vid-2" class="intrinsic-container" style="display:none;">
+									<iframe src="https://www.youtube.com/embed/8x75DYWscSk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+								</div>
+                            </div>
+                        </div>
+                    </div>
+					
+					<!-- Business Model -->
+					
+					<div class="card">
+                        <div class="card-header" data-background-color="green">
+                            <h4 class="title" style="margin-bottom:-4px;">Business Model</h4>
+							<p class="category">Een tekstuele uitwerking van het Business Model van ons team. Voor een grafische weergave, zie <a href="assets/pdf/Business Model canvas.pdf">dit document</a>.</p>
+                        </div>
+                        <div class="card-content">
+                            <div class="row">
+                                <div class="col-md-12">
+									<div>
+										<p><b>How You Help:</b> Wij helpen bedrijven de volgende stap te zetten richting Smart Industry. Wij doen dit door het inzetten van lean- en Industry 4.0-technologieën en practices. Dit verlaagt de kosten, verbetert de performance en verhoogt de gebruiksvriendelijkheid.</p>
+										<p><b>How You Interact:</b> Naast een uitgebreide beschikbaarheid op afstand (via email en Skype) sturen wij aan op veel persoonlijk contact met het bedrijf dat met ons in zee gaat. Voor de realisatie van een eindproduct hopen we op co-creatie met de medewerkers van het bedrijf, zodat hun kennis ook optimaal kan worden ingezet.</p>
+										<p><b>How They Know You/How You Deliver:</b> Onze potentiële klanten kunnen ons leren kennen via onze webpagina. Hierop vertellen we meer over wie we zijn en hoe we ons project willen aanpakken. Ook staan hier contactmogelijkheden op om ons te bereiken (via LinkedIn of email).</p>
+										<p><b>Who You Help:</b> Wij voeren (onderzoeks)opdrachten uit voor bedrijven die verder willen met Smart Industry, en hier mogelijk al stappen in gezet hebben. De klanten van onze klanten zijn waarschijnlijk ook gebaat bij Smart Industry, en merken als het goed is meer van de ketenintegratie. De specifieke klant voor ons eerste project zal 21 februari bekend worden.</p>
+										<p><b>Who Helps You:</b> Wij worden vanuit de minor Smart Industry ondersteund door diverse docenten met verschillende kennisgebieden en achtergronden. Verder gaan we uit van de juiste ondersteuning door collega’s bij het bedrijf waar we de opdracht uitvoeren.</p>
+										<p><b>What You Do:</b> Wij richten ons voornamelijk op onderzoek, analyse en het bouwen van prototypen voor de uiteindelijke oplossing die door het bedrijf wordt geïmplementeerd.</p>
+										<p><b>Who You Are/What You Have:</b> Wij zijn graag bezig met mensen, informatie en ideeën. Het snijvlak van business en IT is wat ons bijzonder interesseert. Onze skills zijn programmeren, analyseren en adviseren. Verder hebben hebben we vanuit stage, schoolprojecten en bijbanen ervaring opgedaan met het uitvoeren van opdrachten voor bedrijven, zoals het bouwen en verbeteren van websites en webshops.</p>
+										<p><b>What You Give:</b> Wij zijn van plan veel tijd en energie te steken in dit project en er een succes van te maken. Gedurende dit project zijn we tijdens kantooruren steeds beschikbaar, en daarbuiten beperkt via email. Andere kosten zijn het vervoer van en naar de opdrachtgever.</p>
+										<p><b>What You Get:</b> Wij hopen met dit project ervaring op te doen en een breder netwerk op te bouwen.</p>
+									</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+					
+					
+                </div>
+            </div>
+            <footer class="footer">
+                <div class="container-fluid">
+                    <p class="copyright pull-right">
+                        &copy;
+                        <script>
+                            document.write(new Date().getFullYear())
+                        </script>
+                        <a href="http://www.creative-tim.com">Creative Tim</a>, made with love for a better web
+                    </p>
+                </div>
+            </footer>
+        </div>
+    </div>
+</body>
+
+<!-- JQuery, Bootstrap -->
+<script src="assets/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="assets/js/material.min.js" type="text/javascript"></script>
+
+<!-- Plugins -->
+<script src="assets/js/chartist.min.js"></script>
+<script src="assets/js/arrive.min.js"></script>
+<script src="assets/js/perfect-scrollbar.jquery.min.js"></script>
+<script src="assets/js/bootstrap-notify.js"></script>
+
+<!-- Custom JS -->
+<script src="assets/js/material-dashboard.js?v=1.2.0"></script>
+<script src="assets/js/custom.js"></script>
+
+</html>
